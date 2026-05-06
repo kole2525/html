@@ -1,0 +1,23 @@
+A-kortti on suunnattu henkilölle, joka käyttää tieto- ja viestintätekniikkaa työssä, opiskelussa ja vapaa-aikana. Vaadittava osaamistaso vastaa työelämän tarpeisiin sisältäen tärkeimmät tietoyhteiskunnan osa-alueet.
+A-kortti-tutkinnon suorittanut hallitsee sujuvasti käyttämänsä laitteet ja valittujen työvälineohjelmien peruskäytön, tuntee tieto- ja viestintätekniikan peruskäsitteet sekä tunnistaa sen soveltamisalueita.
+
+A-korttiin sisältyvät moduulit ovat samat kuin @-kortissa, ero on suoritettavien moduulien vähimmäismäärässä. @-kortti tarjoaa myös sopivan välitavoitteen A-kortin suorittamiseen.
+
+Tutkinto on ohjelmistoriippumaton. A-kortin tutkintokielinä ovat suomi, ruotsi ja englanti. Kielivaihtoehdot kannattaa tarkistaa tutkinnon järjestäjältä ennen koulutukseen tai näyttökokeeseen osallistumista.
+
+Tutkinnon rakenne
+Tietokoneen käyttäjän A-kortti koostuu seitsemästä osiosta eli moduulista. Suorittaja osallistuu kaikille pakollisten kolmen moduulin kokeeseen ja valitsee vähintään neljä muuta moduulia oman mielenkiintonsa tai oppilaitoksen tarjonnan mukaan.
+
+Kaikille A-kortin suorittajille pakolliset kolme moduulia ovat:
+
+laitteen ja tiedon hallinta
+internet ja sähköposti
+tekstinkäsittely
+Vapaavalintaiset moduulit (vähintään neljä) valitaan seuraavista:
+
+taulukkolaskenta
+esitysgrafiikka
+tietoaineistot taulukoissa
+kuvankäsittely
+verkkotyöskentely
+

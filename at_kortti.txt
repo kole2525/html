@@ -1,0 +1,19 @@
+Tutkinnon rakenne
+@-kortti koostuu neljästä osiosta eli moduulista. Suorittaja osallistuu kaikille pakollisten kahden moduulin kokeeseen ja valitsee vähintään kaksi muuta moduulia oman mielenkiintonsa tai oppilaitoksen tarjonnan mukaan.
+
+Näyttökokeen suorittaminen
+Kansalaisen @-kortin kokeet voi suorittaa yksi kerrallaan haluamassaan järjestyksessä. Kuhunkin osakokeeseen saa käyttää 45 minuuttia aikaa. Näyttökokeissa saa olla muistiinpanot ja ohjekirjat tukena, lukuunottamatta Tietotekniikan perusteet -moduulia. Tässä teoriakokeessa ei mitään materiaalia saa olla mukana. 
+
+
+Kaikille @-kortin suorittajille pakolliset kaksi moduulia ovat:
+
+laitteen ja tiedon hallinta
+internet ja sähköposti
+Vapaavalintaiset moduulit (vähintään kaksi) valitaan seuraavista:
+
+tekstinkäsittely
+taulukkolaskenta
+esitysgrafiikka
+tietoaineistot taulukoissa
+kuvankäsittely
+verkkotyöskentely

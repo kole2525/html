@@ -1,0 +1,62 @@
+
+    
+    
+
+h1{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+#projektit {
+  display: flex;
+  gap: 20px;
+}
+
+#projektit h3 {
+  margin-top: 0;
+}
+
+.projekti {
+  border: 1px solid #ccc;
+  padding: 15px;
+  border-radius: 8px;
+  flex: 1;
+}
+.taulukko {
+  border-collapse: collapse;
+  width: 100%;
+}
+
+.taulukko th, .taulukko td {
+  border: 1px solid #aaa;
+  padding: 8px 12px;
+  text-align: left;
+}
+
+.taulukko th {
+  background-color: #eee;
+}
+
+.taulukko tr:nth-child(even) {
+  background-color: #f9f9f9;
+}
+th{
+    background-color: aqua;
+}
+body{
+    background-color: aquamarine;
+}
+.nav {
+  display: flex;
+  flex-direction: row;
+  
+font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: small;
+}
+
+.nav div {
+  background-color: #f1f1f1;
+  width: 100px;
+  margin: 10px;
+  padding: 10px;
+  text-align: center;  
+  font-size: 20px;
+}

@@ -1,0 +1,24 @@
+AB-kortti
+Tietokoneen käyttäjän AB-kortti -tutkinto antaa valmiudet tieto- ja viestintätekniikan  tehokkaaseen ja monipuoliseen hyödyntämiseen. Tutkinto soveltuu erityisesti työelämälähtöiseen tieto- ja viestintätekniikan koulutukseen. Se hyväksytään osasuorituksena joihinkin ammattitutkintoihin, opintojaksoiksi tai kursseiksi eri kouluasteilla ja työvoimapoliittiseen, työelämään valmentavaan koulutukseen.
+
+Tämä vaativa, pääosin valinnaisista moduuleista koostuva jatkotutkinto tarjoaa suorittajalleen mahdollisuuden erikoistua niihin tieto- ja viestintätekniikan osa-alueisiin, joita hän työssään tarvitsee tai joista hän on erityisesti kiinnostunut. Käytännössä tämä tarkoittaa valittujen ohjelmien syvällisempää käyttötaitoa ja valmiuksia ongelmanratkaisuun sekä itsenäiseen tiedonhankintaan.
+
+Esitietovaatimuksena on Tietokoneen käyttäjän A-kortin vaatimukset.
+
+
+
+Tutkinnon rakenne
+Tutkinto muodostuu yhdestä pakollisesta ja kolmesta valinnaisesta moduulista. Pakollinen moduuli on ohjelmien yhteiskäyttö ja valinnaiset moduulit voidaan valita kuuden vaihtoehdon joukosta.
+
+Kaikille AB-kortin suorittajille pakollinen moduuli on
+
+ohjelmien yhteiskäyttö
+Vapaavalintaiset moduulit (vähintään kolme) valitaan seuraavista:
+
+tekstinkäsittely
+taulukkolaskenta
+tietokannat
+esitysgrafiikka
+kuvankäsittely
+verkkoviestintä
+

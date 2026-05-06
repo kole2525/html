@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang ="fi">
+    <head>
+        <meta charset="UTF-8">
+        <title>lomake tehtävä 4</title>
+        <style>
+            table {
+                border-collapse: collapse;
+                witdh: 1000px;
+            }
+            td {
+                border: 2px solid black;
+                padding: 8px;
+            }
+        </style>
+    </head>
+    <body>
+
+        <form>
+            <table>
+                <tr>
+                    <td>etunimi:</td>
+                    <td><input type ="text"></td>
+                </tr>
+                <tr>
+                    <td>sukunimi:</td>
+                    <td><input type ="text"></td>
+                </tr>
+                <tr>
+                    <td>sukupuoli:</td>
+                    <td>
+                        <label><input type ="radio" name ="sukupuoli"> nainen</label>
+                        <label><input type ="radio" name ="sukupuoli"> mies</label>
+                    </td>
+                </tr>
+                <tr>
+                    <td>asian laatu</td>
+                    <td>
+                        <select>
+                            <option>valitse listalta</option>
+                        </select>
+                    </td>
+                </tr>
+                <tr>
+                    <td>tarkempi määrittely</td>
+                    <td><textarea rows ="4" cols= "20"></textarea></td>
+                </tr>
+                <tr>
+                    <td colspan="2" style="text-align: center;">
+                    <input type="submit" value="submit">
+                    <input type="reset" value="reset">
+                </td>
+                </tr>
+            </table>
+        </form>
+    </body>
+</html>
